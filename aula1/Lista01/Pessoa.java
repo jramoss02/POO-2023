@@ -1,4 +1,4 @@
-package aula2.Lista01;
+package aula1.Lista01;
 
 public class Pessoa {
     private String cpf;

@@ -1,4 +1,4 @@
-package aula2.Lista02;
+package aula1.Lista02;
 
 import java.util.Scanner;
 public class Exercicio02 {

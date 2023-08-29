@@ -1,4 +1,4 @@
-package aula2.Lista03;
+package aula1.Lista03;
 
 public class Funcionario {
     private int cracha;
