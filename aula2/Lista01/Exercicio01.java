@@ -1,4 +1,4 @@
-package Fundamentos.Lista01;
+package aula2.Lista01;
 
 import java.util.Scanner;
 public class Exercicio01 {

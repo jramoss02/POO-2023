@@ -1,4 +1,4 @@
-package Fundamentos.Lista02;
+package aula2.Lista02;
 
 public class Aluno {
     private String RA;
